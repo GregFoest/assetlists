@@ -8877,5 +8877,34 @@
       "osmosis_unstable": true,
       "_comment": "Manifest Power Token $PWR"
     }
+  },
+    {
+      "description": "WIHA Token - Authentic, adaptive and solar powered.",
+      "denom_units": [
+        {
+          "denom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/wiha",
+          "exponent": 0
+        },
+        {
+          "denom": "wiha",
+          "exponent": 18
+        }
+      ],
+      "base": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/wiha",
+      "name": "WIHA",
+      "display": "wiha",
+      "symbol": "WIHA",
+      "logo_URIs": {
+        "png": "https://i.degencdn.com/ipfs/bafybeie6v4455pc6e7f4u4s55nlbqeu2jvmumbhzwdn6zu5yzwrjn5gyyi"
+      },
+      "images": [
+        {
+          "png": "https://i.degencdn.com/ipfs/bafybeie6v4455pc6e7f4u4s55nlbqeu2jvmumbhzwdn6zu5yzwrjn5gyyi",
+          "theme": {
+            "primary_color_hex": "#ffffff"
+          }
+        }
+      ]
+    }
   ]
 }
